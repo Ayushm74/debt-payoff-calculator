@@ -66,7 +66,7 @@ const Index = () => {
       <header className="financial-header py-3">
         <div className="container max-w-4xl mx-auto px-4 flex items-center gap-2">
           <Calculator size={22} />
-          <span className="font-bold text-lg tracking-tight">DebtFree Calculator</span>
+          <span className="font-bold text-lg tracking-tight">Debt Payoff Calculator Easy</span>
         </div>
       </header>
 
@@ -152,7 +152,7 @@ const Index = () => {
             "description": "Free debt payoff calculator to estimate how long it will take to pay off loans and credit cards. Compare avalanche and snowball methods.",
             "provider": {
               "@type": "Organization",
-              "name": "DebtFree Calculator"
+              "name": "Debt Payoff Calculator Easy"
             },
             "url": "https://debtfreecalculator.com/debt-payoff-calculator"
           })
